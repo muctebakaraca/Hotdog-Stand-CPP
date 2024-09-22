@@ -1,0 +1,9 @@
+HotDogStand1,stock inventory, 20
+HotDogStand2,stock inventory, 20
+HotDogStand3,stock inventory, 20
+HotDogStand1,buy, 10
+HotDogStand2,buy, 03
+HotDogStand3,buy, 1
+HotDogStand1,buy, 30
+HotDogStand2,buy, 17
+HotDogStand2,buy, 01

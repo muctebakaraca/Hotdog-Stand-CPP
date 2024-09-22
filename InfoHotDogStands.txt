@@ -1,0 +1,3 @@
+HotDogStand1,17817 Coit Rd Richardson Texas 75934 USA, 10.27,0,0
+HotDogStand2,800 West Campbell Rd Plano Texas 75039 USA,13.2,0,0
+HotDogStand3,7421 Frankford Rd Dallas Texas 73409 USA,18.23,0,0
